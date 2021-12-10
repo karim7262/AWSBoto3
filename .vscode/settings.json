@@ -1,0 +1,4 @@
+{
+    "python.linting.enabled": true,
+    "python.defaultInterpreterPath": "C:\\Temp\\Practices\\AWSBoto3\\envBoto3\\Scripts\\python.exe"
+}
